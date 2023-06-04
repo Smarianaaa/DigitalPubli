@@ -1,0 +1,16 @@
+C:\Users\Sender\source\repos\Empresa\Empresa\bin\Debug\Empresa.exe.config
+C:\Users\Sender\source\repos\Empresa\Empresa\bin\Debug\Empresa.exe
+C:\Users\Sender\source\repos\Empresa\Empresa\bin\Debug\Empresa.pdb
+C:\Users\Sender\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.AssemblyReference.cache
+C:\Users\Sender\source\repos\Empresa\Empresa\obj\Debug\Empresa.Properties.Resources.resources
+C:\Users\Sender\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.GenerateResource.cache
+C:\Users\Sender\source\repos\Empresa\Empresa\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\Sender\source\repos\Empresa\Empresa\obj\Debug\Empresa.exe
+C:\Users\Sender\source\repos\Empresa\Empresa\obj\Debug\Empresa.pdb
+C:\Users\Sender\source\repos\Empresa\Empresa\obj\Debug\Empresa.Login.resources
+C:\Users\Sender\source\repos\Empresa\Empresa\obj\Debug\Empresa.VistaAdministrador.resources
+C:\Users\Sender\source\repos\Empresa\Empresa\obj\Debug\Empresa.VistaCliente.resources
+C:\Users\Sender\source\repos\Empresa\Empresa\obj\Debug\Empresa.RegistroUsuario.resources
+C:\Users\Sender\source\repos\Empresa\Empresa\obj\Debug\Empresa.AgregarProyecto.resources
+C:\Users\Sender\source\repos\Empresa\Empresa\obj\Debug\Empresa.AgregarTexto.resources
+C:\Users\Sender\source\repos\Empresa\Empresa\obj\Debug\Empresa.VistaDetalleProyecto.resources
